@@ -1,0 +1,4 @@
+[submodule "Scaffold-Daughter-Board-DUT"]
+	path = Scaffold-Daughter-Board-DUT
+	url = https://github.com/ladderlogix/Scaffold-Daughter-Board-DUT.git
+	branch = main
